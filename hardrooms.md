@@ -18,7 +18,6 @@ I don't think this is good but I might as well put it here.
 
 
 
-Chasm-1 Nyoom (Bee Strat)
 Required tech: reverse hypers, simple chained dashes, simple curving
 
 6B
