@@ -1,4 +1,4 @@
-# Hard Room Clear Strats    
+# Hard Room Clear Strats
    - [(ARB) Mirror Temple A CP1 - a-03](#(ARB) Mirror Temple A CP1 - a-03)
    - [Summit A 3000M - Flag 10](#Summit A 3000M - Flag 10)
    - [Summit A 3000M - Flag 9](#Summit A 3000M - Flag 9)
