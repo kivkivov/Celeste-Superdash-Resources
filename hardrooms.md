@@ -38,7 +38,7 @@ Continue to pause buffer until this frame, then pause buffer and hold right. Avo
  The easiest and fastest strat here is to ignore the spinners. From the beginnning, extended hyper, dash up twice and grab the dash crystal on the left, then use your remaining dashes to reach the cloud on the left. Skipping the next flag, Flag 8, is recommended because it is awkward to maneuver, and grabbing it loses time for little benefit.
  
  ## Mirror Temple B CP1 - Room 4
-Superdashes last too long, so it is impossible to jump off the first dash block after a down dash. You have to do a reverse coyote super instead, which means jumping after physically leaving the platform of the block. Stand on the dash block and jump right without hitting spikes. At the peak of your jump, dash left.
+One of the reasons why you might not want to immediately play 5B in Any%. Superdashes last too long, so it is impossible to jump off the first dash block after a down dash. You have to do a reverse coyote super instead, which means jumping after physically leaving the platform of the block. Stand on the dash block and jump right without hitting spikes. At the peak of your jump, dash left.
 
 When your dash reaches about this point, you want to input the reverse super.
  
