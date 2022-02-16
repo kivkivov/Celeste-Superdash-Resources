@@ -66,15 +66,18 @@ I don't think this is good but I might as well put it here.
    </details>
 
  ## Summit B 2000M - Room 4
+ 
     <details>
       <summary>Normal Strat</summary>
 
 For the ending cloud of this room, you do a left dash curved down. For the second dash, you have two options.
 
-- Right Dash Curved Up
+Right Dash Curved Up
+
 Start the dash from lower, and try to curve late so you don't hit the spikes.
 
-- Right Dash Curved Down
+Right Dash Curved Down
+
 Start the dash from higher so you give your dash more time to curve.
 
    </details>
