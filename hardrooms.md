@@ -118,11 +118,27 @@ Lastly, make sure to stay CROUCHED while waiting on the cloud and jumping off th
 
  ## Summit B 3000M - Flag 12
  
- The second half of this flag is one of the most difficult room clears in the game. Starting after the second spring hit up top, you want to
+ The second half of this flag is one of the most difficult room clears in the game. Starting after the second spring hit up top, you want to do a left dash curved down and aim to fall to the lower left corner. From there, dash right and curve up at the very end of the dash, then hold in towards the spring. 
+ 
+ Optional: For the next part, you don't to get too much height, so you can dash back into the spring to get a lower spring hit (and to make the flag less input dense, kind of).
+ 
+ After hitting the spring, do an upright dash at this point below, then begin to curve up shortly after.
  
  ## Summit B 3000M - Flag 2
  
  The hardest part of this flag is the ending section, but I'm showing easy beginning strats here as well.
+ 
+ At the end of the flag, there are two main ways you can reach the final cloud.
+ 
+ Option 1
+ 
+ Easier but slower method. After breaking the first cloud, use an up-right dash curved up to land on the next cloud. From there, fall, do a right dash, then a right dash curved up to land on the next cloud. Walk off the cloud, then the final cloud should be simple.
+ 
+ Option 2
+ 
+The fast method that isn't too much harder. After breaking the first cloud, do a right dash, then a right dash curved up (late) to grab the crystal. Here is about where you should do the second right dash.
+ 
+After getting the crystal, begin holding right. Fall to the bottom, then do another right dash into a right dash curved up, reaching the final cloud. Here is the visual cue for this one.
  
  ## Core C - Room 3 ##
  
