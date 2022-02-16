@@ -117,7 +117,7 @@ Lastly, make sure to stay CROUCHED while waiting on the cloud and jumping off th
 
  ## Summit B 3000M - Flag 12
  
- Quite difficult.
+ The second half of this flag is one of the most difficult room clears in the game. Starting after the second spring hit up top, you want to
  
  ## Summit B 3000M - Flag 2
  
