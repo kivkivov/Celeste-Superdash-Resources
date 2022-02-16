@@ -19,7 +19,8 @@ Really the only problematic berry in the game, and it's not too bad. After takin
 This can be usually be done in 10 tries or less, but another option is pause buffering for consistency.
 
 
-Pause Buffering Explanation (Version 1.4.0.0)
+Link: Pause Buffering Explanation (Version 1.4.0.0)
+
 Take the bubble up. Pause until this frame, then pause buffer an up dash.
 
 Continue to pause buffer until this frame, then pause buffer and hold right. Avoid the spinners on the way down too.
