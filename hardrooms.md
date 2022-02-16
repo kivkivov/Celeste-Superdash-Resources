@@ -92,13 +92,13 @@ I don't think this is good but I might as well put it here.
 
 For the ending cloud of this room, you do a left dash curved down. For the second dash, you have two options.
 
-Right Dash Curved Up
+**Right Dash Curved Up**
+   
+Start the dash from lower, and try to curve up later so you don't hit the spikes.
 
-Start the dash from lower, and try to curve late so you don't hit the spikes.
-
-Right Dash Curved Down
-
-Start the dash from higher so you give your dash more time to curve.
+**Right Dash Curved Down**
+   
+Start the dash from higher so you can give your dash more time to curve down.
 
    </details>
    
