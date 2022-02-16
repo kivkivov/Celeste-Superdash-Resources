@@ -3,9 +3,10 @@
 WORK IN PROGRESS
 
 Links
+
 [Superdash Discord (Also for the Unofficial Leaderboard)](https://discord.gg/ZGRt3bdMp2)
 
-[Official speedrun.com Superdash Leaderboards](https://www.speedrun.com/celeste_category_extensions#Super_Dash
+[Official speedrun.com Superdash Leaderboards](https://www.speedrun.com/celeste_category_extensions#Super_Dash)
 
 [Unofficial Celeste Category Extensions Leaderboard (ft. Superdash Categories)](https://docs.google.com/spreadsheets/d/1MuEWE0IE50u6bxN3gVRS83-liA4zTVeQv0RHUXZyHDs)
 
