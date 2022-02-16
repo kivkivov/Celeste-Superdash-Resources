@@ -4,7 +4,7 @@
    - [**Summit A** 3000M - Flag 10](#summit-a-3000m---flag-10)
    - [**Summit A** 3000M - Flag 9](#summit-a-3000m---flag-9)
    - [**Mirror Temple** B CP1 - Room 4](#mirror-temple-b-cp1---room-4)
-   - [**Reflection B** CP1 - Room 9](#reflection-b-cp1---room-9)
+   - [**Reflection B** CP2 - Room 9](#reflection-b-cp2---room-9)
    - [**Summit B** 2000M - Room 2](#summit-b-2000m---room-2)
    - [**Summit B** 2000M - Room 4](#summit-b-2000m---room-4)
    - [**Summit B** 3000M - Flag 12](#summit-b-3000m---flag-12)
@@ -37,7 +37,7 @@ Take the bubble up. Pause until this frame, then pause buffer an up dash.
 Superdashes last too long, so it is impossible to jump off the first dash block with a down dash. You have to do a reverse coyote super instead - with "coyote" referring to how you must jump after physically leaving the ground of the dash block (coyote time). Stand on the dash block and jump right without hitting spikes. At the peak of your jump, dash left.
 When your dash reaches about this point, you want to input the reverse super.
  
- ## Reflection B CP1 - Room 9
+ ## Reflection B CP2 - Room 9
  
 THE hardest, most infamous room in Superdash, period. At least, without pause buffering. The ending of this room requires two very precise left-to-down curves, one immediately after the other. This room is doable without pause buffering, but it could mean taking 5 minutes of attempts instead of only one single pause buffered attempt. Even with practice, the no-pause method is still highly inconsistent. Pause buffering is the preferred method here.
 
