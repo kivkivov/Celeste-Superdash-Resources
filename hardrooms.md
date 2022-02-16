@@ -21,7 +21,7 @@ Take the bubble up. Pause until this frame, then pause buffer an up dash.
 
  ## Summit A 3000M - Flag 10
  
- The most infamous room in Any% - fortunately it becomes 100% consistent if you know the setup. 
+ The bain of first-time Superdashers' existences - fortunately it becomes 100% consistent if you know the setup. 
  
  Dash left to the wall and then carefully position yourself on the rightmost wall. Fall down, left dash through the gap, and hold right. This should easily set you up to hit the spring.
  
