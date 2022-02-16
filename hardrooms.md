@@ -31,22 +31,22 @@ Continue to pause buffer until this frame, then pause buffer and hold right. Avo
  
  Fall and dash left to the wall and then carefully position yourself on the rightmost wall to align yourself. Fall down, left dash through the gap, and hold right. This should easily set you up to hit the spring.
  
- For the final part, wall jump into the spinner section, fall into the lower right corner, then do a normal upleft dash (no curving). After the dash ends, you can simply fall down.
- 
+ For the final part, wall jump into the spinner section, fall into the lower right corner, then do a normal upleft dash (no curving). 
  
  ## Summit A 3000M - Flag 9
  
  The easiest and fastest strat here is to ignore the spinners. From the beginnning, extended hyper, dash up twice and grab the dash crystal on the left, then use your remaining dashes to reach the cloud on the left. Skipping the next flag, Flag 8, is recommended because it is awkward to maneuver, and grabbing it loses time for little benefit.
  
  ## Mirror Temple B CP1 - Room 4
-Superdashes last too long, so it is impossible to jump off the first dash block with a down dash. You have to do a reverse coyote super instead - with "coyote" referring to how you must jump after physically leaving the ground of the dash block (coyote time). Stand on the dash block and jump right without hitting spikes. At the peak of your jump, dash left.
+Superdashes last too long, so it is impossible to jump off the first dash block after a down dash. You have to do a reverse coyote super instead, which means jumping after physically leaving the platform of the block. Stand on the dash block and jump right without hitting spikes. At the peak of your jump, dash left.
+
 When your dash reaches about this point, you want to input the reverse super.
  
  ## Reflection B CP2 - Room 9
  
 THE hardest, most infamous room in Superdash, period. At least, without pause buffering. The ending of this room requires two very precise left-to-down curves, one immediately after the other. This room is doable without pause buffering, but it could mean taking 5 minutes of attempts instead of only one single pause buffered attempt. Even with practice, the no-pause method is still highly inconsistent. Pause buffering is the preferred method here.
 
-Pause Buffering Explanation (Version 1.4.0.0)
+[Link: Pause Buffering Explanation (Version 1.4.0.0)](https://youtu.be/ZRGMMsY8QoI?t=404)
 
 First, pause until you fall to this height, roughly towards the left. 
 
