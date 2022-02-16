@@ -20,6 +20,8 @@ This can be usually be done in 10 tries or less, but another option is pause buf
 Pause Buffering Explanation (Version 1.4.0.0)
 Take the bubble up. Pause until this frame, then pause buffer an up dash.
 
+Continue to pause buffer until this frame, then pause buffer and hold right. Avoid the spinners on the way down too.
+
  ## Summit A 3000M - Flag 10
  
  The bain of first-time Superdashers' existences - fortunately it becomes 100% consistent if you know the setup. 
