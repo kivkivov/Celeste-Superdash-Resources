@@ -9,8 +9,8 @@
    - [**Summit B** 2000M - Room 4](#summit-b-2000m---room-4)
    - [**Summit B** 3000M - Flag 12](#summit-b-3000m---flag-12)
    - [**Summit B** 3000M - Flag 2](#summit-b-3000m---flag-2)
-   - [**Farewell** CP6 - Room 7](#farewell-cp6---room-7)
    - [**Core C** - Room 3](#)
+   - [**Farewell** CP6 - Room 7](#farewell-cp6---room-7)
 
  ## (ARB) Mirror Temple A CP1 - a-03 Berry
 
