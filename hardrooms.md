@@ -14,7 +14,7 @@
 
  ## (ARB) Mirror Temple A CP1 - a-03 Berry
 
-Really the only problematic berry in the game, and it's not too bad. After taking the bubble up, you do an up dash, wait a bit, then hold right. 
+Really the only problematic berry in the game, and it's not too bad. After taking the bubble up, you do an up dash, wait a bit, then hold right. Make sure not to hit the spikes on the way down.
 
 This can be usually be done in 10 tries or less, but another option is pause buffering for consistency.
 
