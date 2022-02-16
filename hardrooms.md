@@ -1,4 +1,5 @@
 # Hard Room Clear Strats
+100%ing the game is fully possible with Superdash! Here are guides for the more difficult and unintuitive rooms.
    - [**(ARB) Mirror Temple A CP1** - a-03 Berry](#arb-mirror-temple-a-cp1---a-03)
    - [**Summit A** 3000M - Flag 10](#summit-a-3000m---flag-10)
    - [**Summit A** 3000M - Flag 9](#summit-a-3000m---flag-9)
