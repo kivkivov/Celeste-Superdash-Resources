@@ -38,7 +38,7 @@ When your dash reaches about this point, you want to input the reverse super.
  
  ## Reflection B CP1 - Room 9
  
-THE hardest, most infamous room in Superdash, period. At least, without pause buffering. The ending of this room requires two very precise left-to-down curves, one immediately after the after. This room is doable without pause buffering, but it could mean taking 5 minutes of attempts instead of only one single pause buffered attempt. Even with practice, the no-pause method is still highly inconsistent. Pause buffering is the preferred method here.
+THE hardest, most infamous room in Superdash, period. At least, without pause buffering. The ending of this room requires two very precise left-to-down curves, one immediately after the other. This room is doable without pause buffering, but it could mean taking 5 minutes of attempts instead of only one single pause buffered attempt. Even with practice, the no-pause method is still highly inconsistent. Pause buffering is the preferred method here.
 
 Pause Buffering Explanation (Version 1.4.0.0)
 
@@ -111,6 +111,16 @@ Align on this pixel (Madeline's highest pixel is X pixels above the top of the b
 Lastly, make sure to stay CROUCHED while waiting on the cloud and jumping off the cloud. This makes the jump much less precise.
 
  ## Summit B 3000M - Flag 12
+ 
+ Quite difficult.
+ 
  ## Summit B 3000M - Flag 2
+ 
+ The hardest part of this flag is the ending section, but I'm showing easy beginning strats here as well.
+ 
  ## Farewell CP6 - Room 7
+ 
+ Perhaps there are better setups, but this is the one I use.
+ 
+ Transition hyper, then fast fall as soon as possible until the lowest point. Left dash and curve up
 
