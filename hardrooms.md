@@ -10,6 +10,8 @@
    - [**Summit B** 3000M - Flag 12](#summit-b-3000m---flag-12)
    - [**Summit B** 3000M - Flag 2](#summit-b-3000m---flag-2)
    - [**Farewell** CP6 - Room 7](#farewell-cp6---room-7)
+   - [**Core C** - Room 3](#)
+
  ## (ARB) Mirror Temple A CP1 - a-03 Berry
 
 Really the only problematic berry in the game, and it's not too bad. After taking the bubble up, you do an up dash, wait a bit, then hold right. 
@@ -120,6 +122,10 @@ Lastly, make sure to stay CROUCHED while waiting on the cloud and jumping off th
  ## Summit B 3000M - Flag 2
  
  The hardest part of this flag is the ending section, but I'm showing easy beginning strats here as well.
+ 
+ ## Core C - Room 3 ##
+ 
+ Most of this room is similar to normal, with the exception of the spinner wall dash crystal section.
  
  ## Farewell CP6 - Room 7
  
