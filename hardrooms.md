@@ -1,9 +1,27 @@
+# Hard Room Clear Strats    
+   - [(ARB) Mirror Temple A CP1 - a-03](#(ARB) Mirror Temple A CP1 - a-03)
+   - [Summit A 3000M - Flag 10](#Summit A 3000M - Flag 10)
+   - [Summit A 3000M - Flag 9](#Summit A 3000M - Flag 9)
+   - [Mirror Temple B CP1 - Room 4](#Mirror Temple B CP1 - Room 4)
+   - [Reflection B CP1 - Room 9](#Reflection B CP1 - Room 9)
+   - [Summit B 2000M - Room 2](#Summit B 2000M - Room 2)
+   - [Summit B 2000M - Room 4](#Summit B 2000M - Room 4)
+   - [Summit B 3000M - Flag 12](#Summit B 3000M - Flag 12)
+   - [Summit B 3000M - Flag 2](#Summit B 3000M - Flag 2)
+   - [Farewell CP6 - Room 7](#Farewell CP6 - Room 7)
 
-The hard part of this room is falling through the gap right before the end section. The beginning cycle shown here lets you enter the hard section as soon as possible, which is important. As soon as you up-right dash into the hard section, fall down to the lowest, leftmost area as shown below. The hitboxes are shown in red, so you can go more left than you think you can.
+ ## Summit B 2000M - Room 2
+
+   <details>
+      <summary>Option 1</summary>
+  The hard part of this room is falling through the gap right before the end section. The beginning cycle shown here lets you enter the hard section as soon as possible, which is important. As soon as you up-right dash into the hard section, fall down to the lowest, leftmost area as shown below. The hitboxes are shown in red, so you can go more left than you think you can.
 
 Initiate a right dash, then begin to hold up when you reach the area indicated here.
 
 Fall down, grab the block, and the rest of the room should be simple. This is the 'simplest' strat here but it may be more precise for some than Option 2.
+   
+   </details>
+
 
 
 
