@@ -1,8 +1,8 @@
 # Hard Room Clear Strats
    - [**(ARB) Mirror Temple A CP1** - a-03](#arb-mirror-temple-a-cp1---a-03)
-   - [**Summit A 3000M** - Flag 10](#summit-a-3000m---flag-10)
-   - [**Summit A 3000M** - Flag 9](#summit-a-3000m---flag-9)
-   - [**Mirror Temple B** CP1 - Room 4](#mirror-temple-b-cp1---room-4)
+   - [**Summit A** 3000M - Flag 10](#summit-a-3000m---flag-10)
+   - [**Summit A** 3000M - Flag 9](#summit-a-3000m---flag-9)
+   - [**Mirror Temple** B CP1 - Room 4](#mirror-temple-b-cp1---room-4)
    - [**Reflection B** CP1 - Room 9](#reflection-b-cp1---room-9)
    - [**Summit B** 2000M - Room 2](#summit-b-2000m---room-2)
    - [**Summit B** 2000M - Room 4](#summit-b-2000m---room-4)
