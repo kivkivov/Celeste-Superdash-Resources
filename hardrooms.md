@@ -24,7 +24,7 @@ Take the bubble up. Pause until this frame, then pause buffer an up dash.
  
  The bain of first-time Superdashers' existences - fortunately it becomes 100% consistent if you know the setup. 
  
- Dash left to the wall and then carefully position yourself on the rightmost wall to align yourself. Fall down, left dash through the gap, and hold right. This should easily set you up to hit the spring.
+ Fall and dash left to the wall and then carefully position yourself on the rightmost wall to align yourself. Fall down, left dash through the gap, and hold right. This should easily set you up to hit the spring.
  
  For the final part, wall jump into the spinner section, fall into the lower right corner, then do a normal upleft dash (no curving). After the dash ends, you can simply fall down.
  
