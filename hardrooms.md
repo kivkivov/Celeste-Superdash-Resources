@@ -1,5 +1,5 @@
 # Hard Room Clear Strats
-   - [**(ARB) Mirror Temple A CP1** - a-03](#arb-mirror-temple-a-cp1---a-03)
+   - [**(ARB) Mirror Temple A CP1** - a-03 Berry](#arb-mirror-temple-a-cp1---a-03)
    - [**Summit A** 3000M - Flag 10](#summit-a-3000m---flag-10)
    - [**Summit A** 3000M - Flag 9](#summit-a-3000m---flag-9)
    - [**Mirror Temple** B CP1 - Room 4](#mirror-temple-b-cp1---room-4)
@@ -9,7 +9,7 @@
    - [**Summit B** 3000M - Flag 12](#summit-b-3000m---flag-12)
    - [**Summit B** 3000M - Flag 2](#summit-b-3000m---flag-2)
    - [**Farewell** CP6 - Room 7](#farewell-cp6---room-7)
- ## (ARB) Mirror Temple A CP1 - a-03
+ ## (ARB) Mirror Temple A CP1 - a-03 Berry
 
 Really the only problematic berry in the game, and it's not too bad. After taking the bubble up, you do an up dash, wait a bit, then hold right. 
 
