@@ -30,4 +30,5 @@ Don't stress or get overwhelemed about not being able to do the difficult stuff!
 Special Thanks
 
 [koral's cue collection, for serving as the basis for this guide](https://github.com/koralreeef/anypercent-cuecollection)
+
 the superdash community, for making this guide possible in the first place <3
