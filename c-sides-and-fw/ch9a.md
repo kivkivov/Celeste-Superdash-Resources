@@ -1,7 +1,7 @@
 
 Dash Trigger Skip (Oilskip)
 
-DTS is much more important for Superdash not only because of the movement buff, but because it is much easier to skip the dash trigger. I would recommend everyone on Version 1.4.0.0 to take a few minutes to learn it.
+DTS is much more important for Superdash not only because of the SIGNIFICANTLY helpful movement buff, but because it is much easier to skip the dash trigger. I would recommend everyone on Version 1.4.0.0 to take a few minutes to learn it.
 
 1. Pause in front of Granny (rip).
 2. Pause buffer your "talk" button. Repause.
