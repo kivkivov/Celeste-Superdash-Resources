@@ -1,6 +1,8 @@
 # Hard Room Clear Strats
+
 100%ing the game is fully possible with Superdash! Here are guides for the more difficult and unintuitive rooms.
-   - [**(ARB) Mirror Temple A CP1** - a-03 Berry](#arb-mirror-temple-a-cp1---a-03)
+
+   - [**(ARB) Mirror Temple A CP1** - a-03 Berry](#arb-mirror-temple-a-cp1---a-03-berry)
    - [**Summit A** 3000M - Flag 10](#summit-a-3000m---flag-10)
    - [**Summit A** 3000M - Flag 9](#summit-a-3000m---flag-9)
    - [**Mirror Temple** B CP1 - Room 4](#mirror-temple-b-cp1---room-4)
@@ -9,7 +11,7 @@
    - [**Summit B** 2000M - Room 4](#summit-b-2000m---room-4)
    - [**Summit B** 3000M - Flag 12](#summit-b-3000m---flag-12)
    - [**Summit B** 3000M - Flag 2](#summit-b-3000m---flag-2)
-   - [**Core C** - Room 3](#)
+   - [**Core C** - Room 3](#core-c---room-3)
    - [**Farewell** CP6 - Room 7](#farewell-cp6---room-7)
 
  ## (ARB) Mirror Temple A CP1 - a-03 Berry
@@ -57,6 +59,8 @@ At this height, you can repeat the same process from earlier. Pause buffer X fra
 Congrats on clearing the hardest room in Superdash 100% (hopefully)!
 
  ## Summit B 2000M - Room 2
+
+<img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/2000m2.webp" width="384" height="216"/>
 
    <details>
       <summary>Option 1</summary>
