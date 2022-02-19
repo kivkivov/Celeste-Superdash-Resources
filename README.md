@@ -4,6 +4,8 @@ WORK IN PROGRESS
 
 (webp - 20 fps max 15 sec)
 
+[Here are my controller binds for reference.](https://imgur.com/0GW8ok7)
+
 Links
 
 [Superdash Discord (Also for the Unofficial Leaderboard)](https://discord.gg/ZGRt3bdMp2)
