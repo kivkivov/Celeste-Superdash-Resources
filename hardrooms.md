@@ -21,15 +21,15 @@ Really the only problematic berry in the game, and it's not too bad. After takin
 This can be usually be done in 10 tries or less, but another option is pause buffering for consistency.
 
    <details>
-      <summary>Pause Buffer Setup</summary>
+      <summary>Visual Cues/Pause Buffer Setup</summary>
    
 ### [Link: Pause Buffering Explanation (Version 1.4.0.0)](https://youtu.be/ZRGMMsY8QoI?t=404)
 
-![cue](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/5a_a-03_1.png)
+<img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/5a_a-03_1.png" width="284" height="225"/>
 
 Take the bubble up. Pause until this frame, then pause buffer an up dash.
 
-![cue](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/5a_a-03_2.png)
+<img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/5a_a-03_2.png" width="284" height="225"/>
 
 (Optional Visual Cue: Pause buffer until the bubble is separated/no longer touching the white point of the spinner (circled).)
 
