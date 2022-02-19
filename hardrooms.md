@@ -124,7 +124,7 @@ Start the dash from lower, and try to curve up later so you don't hit the spikes
 
 **Right Dash Curved Down**
    
-Start the dash from higher so you can give your dash more time to curve down.
+Start the dash from higher so you can give your dash more time to curve down. When you land, dash down on the cloud so you don't slip off.
 
    </details>
    
