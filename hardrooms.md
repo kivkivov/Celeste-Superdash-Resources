@@ -60,7 +60,7 @@ Congrats on clearing the hardest room in Superdash 100% (hopefully)!
 
  ## Summit B 2000M - Room 2
 
-<img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/2000m2.webp" width="384" height="216"/>
+<img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2.webp" width="384" height="216"/>
 
    <details>
       <summary>Option 1</summary>
