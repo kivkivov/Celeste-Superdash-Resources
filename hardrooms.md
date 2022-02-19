@@ -146,7 +146,20 @@ After getting the crystal, begin holding right. Fall to the bottom, then do anot
  
  ## Core C - Room 3 ##
  
- Most of this room is similar to normal, with the exception of the spinner wall dash crystal section.
+ Most of this room is similar to normal, with the exception of the spinner wall dash crystal section. Since your dash lasts longer, it throws the cycle off. There are many ways to deal with this, like doing diagonal dashes or avoiding a switch on the way up. The method we cover here is less precise than other methods, and it uses the intended dash pattern.
+ 
+For this area, you want to reach the ice switch as soon as possible.
+
+When you activate it, you want the ice to last as long as possible. Fall down before dashing up to activate this switch.
+
+You want to hit this next switch as fast as possible, but the intended dash pattern works fine here.
+
+Hit the final switch as late as possible, then start fastfalling. Dash right into the crystal, do an up dash, then do an upright dash in the middle of the up dash.
+
+
+
+
+
  
  ## Farewell CP6 - Room 7
  
