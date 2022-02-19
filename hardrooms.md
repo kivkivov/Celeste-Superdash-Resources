@@ -20,13 +20,29 @@ Really the only problematic berry in the game, and it's not too bad. After takin
 
 This can be usually be done in 10 tries or less, but another option is pause buffering for consistency.
 
+   <details>
+      <summary>Pause Buffer Setup</summary>
+   
+### [Link: Pause Buffering Explanation (Version 1.4.0.0)](https://youtu.be/ZRGMMsY8QoI?t=404)
 
-[Link: Pause Buffering Explanation (Version 1.4.0.0)](https://youtu.be/ZRGMMsY8QoI?t=404)
+![cue](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/5a_a-03_1.png)
 
 Take the bubble up. Pause until this frame, then pause buffer an up dash.
 
+![cue](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/5a_a-03_2.png)
+
+(Optional Visual Cue: Pause buffer until the bubble is separated/no longer touching the white point of the spinner (circled).)
+
+![cue](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/5a_a-03_3.png)
+
 Continue to pause buffer until this frame, then pause buffer and hold right. Avoid the spinners on the way down too.
 
+![cue](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/5a_a-03_4.png)
+
+(Optional Visual Cue: Pause buffer until Madeline is this far from the point of the spinner. For reference, the next frame has the top of Madeline's head touching the point/line.)
+
+   </details>
+   
  ## Summit A 3000M - Flag 10
  
  The bain of first-time Superdashers' existences - fortunately it becomes 100% consistent if you know the setup. 
@@ -41,6 +57,8 @@ Continue to pause buffer until this frame, then pause buffer and hold right. Avo
  
  ## Mirror Temple B CP1 - Room 4
 One of the reasons why you might not want to immediately play 5B in Any%. Superdashes last too long, so it is impossible to jump off the first dash block after a down dash. You have to do a reverse coyote super instead, which means jumping after physically leaving the platform of the block. Stand on the dash block and jump right without hitting spikes. At the peak of your jump, dash left.
+
+<img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/5bc1r4.png" width="428" height="363"/>
 
 When your dash reaches about this point, you want to input the reverse super.
  
@@ -64,8 +82,12 @@ Congrats on clearing the hardest room in Superdash 100% (hopefully)!
 
    <details>
       <summary>Option 1</summary>
+
+![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2.webp)
    
-The hard part of this room is falling through the gap right before the end section. The beginning cycle shown here lets you enter the hard section as soon as possible, which is important. As soon as you up-right dash into the hard section, fall down to the lowest, leftmost area as shown below. The hitboxes are shown in red, so you can go more left than you think you can.
+The hard part of this room is falling through the gap right before the end section. The beginning cycle shown here lets you enter the hard section as soon as possible, which is important. 
+
+As soon as you up-right dash into the hard section, fall down to the lowest, leftmost area as shown here. On the right, I have hitboxes on to show that you have more room on the bottom left and top right than you may think.
 
 Initiate a right dash, then begin to hold up when you reach the area indicated here.
 
@@ -108,11 +130,14 @@ Start the dash from higher so you can give your dash more time to curve down.
    
    <details>
       <summary>Demodash Setup</summary>
+   
 Decent alternative to the normal strat.
 
 Grab the highest Badeline orb, then fall back down and grab the higher block.
-
-Align on this pixel (Madeline's highest pixel is X pixels above the top of the block.). Do a max height wall jump. At the peak of the jump, demodash left, then dash down to stop yourself on the cloud.
+   
+![cue](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m4.png)
+   
+Align on this pixel (Madeline's highest pixel is 3 pixels above the top of the block.). Do a max height wall jump. At the peak of the jump, demodash left, then dash down to stop yourself on the cloud.
 
    </details>
 
