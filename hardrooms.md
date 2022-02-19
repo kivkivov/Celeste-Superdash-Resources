@@ -116,7 +116,7 @@ Align on this pixel (Madeline's highest pixel is X pixels above the top of the b
 
    </details>
 
-**IMPORTANT:** 
+### **IMPORTANT:** 
 
 Lastly, make sure to stay CROUCHED while waiting on the cloud and jumping off the cloud. This makes the jump much less precise.
 
