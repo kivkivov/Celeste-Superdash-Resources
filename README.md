@@ -2,6 +2,8 @@
 
 WORK IN PROGRESS
 
+(webp - 20 fps max 15 sec)
+
 Links
 
 [Superdash Discord (Also for the Unofficial Leaderboard)](https://discord.gg/ZGRt3bdMp2)
