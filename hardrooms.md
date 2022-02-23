@@ -143,7 +143,7 @@ Align on this pixel (Madeline's highest pixel is 3 pixels above the top of the b
 
 ### **IMPORTANT:** 
 
-Lastly, make sure to stay CROUCHED while waiting on the cloud and jumping off the cloud. This makes the jump much less precise.
+Lastly, make sure to stay CROUCHED while waiting on and jumping off the cloud. This makes it so you don't need to adjust for the wind nearly as much (or at all).
 
  ## Summit B 3000M - Flag 12
  
