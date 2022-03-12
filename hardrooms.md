@@ -169,7 +169,7 @@ Lastly, make sure to stay CROUCHED while waiting on and jumping off the cloud. Y
  
  ![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7bflag12_2.webp)
 
- Starting after the second spring hit up top, you want to do a left dash curved down and aim to fall to the lower left corner. From there, dash right and curve up-right at the very end of the dash, then hold in towards the spring. 
+ Starting after the second spring hit up top, you want to do a left dash curved down and aim to fall to the lower left corner. Make sure to hold straight down until after the dash ends. From there, dash right and curve up-right at the very end of the dash, then hold in towards the spring. 
  
  Optional: For the next part, to avoid going too high, you can dash back into the spring to get a lower spring hit (and to make the flag less input dense)
  
