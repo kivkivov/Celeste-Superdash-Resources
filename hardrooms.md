@@ -204,7 +204,7 @@ Lastly, make sure to stay CROUCHED while waiting on and jumping off the cloud. Y
 
 The fast method that isn't too much harder. After breaking the first cloud, do a right dash, then a right dash curved up rather late to grab the crystal.
  
-After getting the crystal, begin holding right. Fall to the bottom, then do another right dash into a right dash curved up, reaching the final cloud.
+After getting the crystal, begin holding right. Fall to the bottom, then dash right and curve upright at the end. Dash up-right and curve up to reach the final cloud.
 
    </details> 
  
