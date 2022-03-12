@@ -100,7 +100,7 @@ Fall down, grab the block, and the rest of the room should be simple. This is th
    <details>
       <summary>Option 2</summary>
    
-![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2-3.webp)
+![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2_3.webp)
 
 Unlike in Option 1, the beginning cycle sets you up to enter the hard section as late as possible. When you enter the hard section, do a right dash curved down so that you hit the spring. Then, you can down dash and right dash to grab the side of the block safely. You can die from accidentally cornerboosting out of the right dash while trying to climb jump, so either wait for the right dash to end before jumping or don't hold right when jumping.
 
@@ -109,7 +109,7 @@ Unlike in Option 1, the beginning cycle sets you up to enter the hard section as
    <details>
       <summary>Demodash Method (bad)</summary>
    
-![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2-3.webp)
+![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2_3.webp)
 
 Pretty difficult, so I wouldn't recommend. It's good if you hate curving maybe lol????? The idea is to grab the block at the right pixel, then demodash right, timed precisely before you are about to touch the spikes.
 
