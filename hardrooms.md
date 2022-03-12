@@ -109,7 +109,7 @@ Unlike in Option 1, the beginning cycle sets you up to enter the hard section as
    <details>
       <summary>Demodash Method (bad)</summary>
    
-![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2_3.webp)
+![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2_4.webp)
 
 Pretty difficult, so I wouldn't recommend. It's good if you hate curving maybe lol????? The idea is to grab the block at the right pixel, then demodash right, timed precisely before you are about to touch the spikes.
 
@@ -167,14 +167,14 @@ Lastly, make sure to stay CROUCHED while waiting on and jumping off the cloud. Y
 
  Starting after the second spring hit up top, you want to do a left dash curved down and aim to fall to the lower left corner. From there, dash right and curve up-right at the very end of the dash, then hold in towards the spring. 
  
- ![cue](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7bflag12.png)
-
  Optional: For the next part, to avoid going too high, you can dash back into the spring to get a lower spring hit (and to make the flag less input dense)
  
  ![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7bflag12_3.webp)
 
  After hitting the spring, do an up-right dash shortly after and curve up immediately.
  
+ ![cue](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7bflag12.png)
+
  Another thing you can do is dash into and grab here, then slide down into the spring. However, this changes the timing of the up-right dash.
  
  ## Summit B 3000M - Flag 2
@@ -193,7 +193,7 @@ Lastly, make sure to stay CROUCHED while waiting on and jumping off the cloud. Y
 
    </details> 
  
-    <details>
+   <details>
       <summary>Option 2</summary>
   
 ![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7bflag2_2.webp)
