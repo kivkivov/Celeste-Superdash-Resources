@@ -86,7 +86,9 @@ Congrats on clearing the hardest room in Superdash 100% (hopefully)!
 ![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2.webp)
    
 The hard part of this room is falling through the gap right before the end section. The beginning cycle shown here lets you enter the hard section as soon as possible, which is important. 
-   
+
+![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2-2.webp)
+
 As soon as you up-right dash into the hard section, fall down to the lowest, leftmost area as shown here. On the right, I have hitboxes on to show that you have more room on the bottom left and top right than you may think.
 
 Initiate a right dash, then begin to hold up when you reach the area indicated here.
@@ -97,17 +99,19 @@ Fall down, grab the block, and the rest of the room should be simple. This is th
 
    <details>
       <summary>Option 2</summary>
+   
+![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2-3.webp)
 
 Unlike in Option 1, the beginning cycle sets you up to enter the hard section as late as possible. When you enter the hard section, do a right dash curved down so that you hit the spring. Then, you can down dash and right dash to grab the side of the block safely. You can die from accidentally cornerboosting out of the right dash while trying to climb jump, so either wait for the right dash to end before jumping or don't hold right when jumping.
 
    </details>
 
    <details>
-      <summary>Other Options</summary>
+      <summary>Demodash Method (bad)</summary>
+   
+![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2-3.webp)
 
 Pretty difficult, so I wouldn't recommend. It's good if you hate curving maybe lol????? The idea is to grab the block at the right pixel, then demodash right, timed precisely before you are about to touch the spikes.
-
-I don't think this is good but I might as well put it here.
 
    </details>
 
@@ -155,27 +159,50 @@ Lastly, make sure to stay CROUCHED while waiting on and jumping off the cloud. Y
 
  ## Summit B 3000M - Flag 12
  
- The second half of this flag is one of the most difficult room clears in the game. Starting after the second spring hit up top, you want to do a left dash curved down and aim to fall to the lower left corner. From there, dash right and curve up-right at the very end of the dash, then hold in towards the spring. 
+ <img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7bflag12_1.webp" width="384" height="216"/>
+
+ The second half of this flag is one of the most difficult room clears in the game. 
  
+ ![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7bflag12_2.webp)
+
+ Starting after the second spring hit up top, you want to do a left dash curved down and aim to fall to the lower left corner. From there, dash right and curve up-right at the very end of the dash, then hold in towards the spring. 
+ 
+ ![cue](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7bflag12.png)
+
  Optional: For the next part, to avoid going too high, you can dash back into the spring to get a lower spring hit (and to make the flag less input dense)
  
+ ![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7bflag12_3.webp)
+
  After hitting the spring, do an up-right dash shortly after and curve up immediately.
  
  Another thing you can do is dash into and grab here, then slide down into the spring. However, this changes the timing of the up-right dash.
  
  ## Summit B 3000M - Flag 2
  
+<img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7bflag2_1.webp" width="384" height="216"/>
+
+ 
  The hardest part of this flag is the ending section - there are two main ways you can reach the final cloud.
  
- Option 1
- 
+   <details>
+      <summary>Option 1</summary>
+  
+ ![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7bflag2_1.webp)
+
  Easier but slower method. After breaking the first cloud, use an up-right dash curved up to land on the next cloud. From there, fall, do a right dash, then a right dash curved up to land on the next cloud. Walk off the cloud (or do a short hop), then the final cloud should be simple. Using a demodash button can also help to avoid hitting spikes above you.
+
+   </details> 
  
- Option 2
- 
+    <details>
+      <summary>Option 2</summary>
+  
+![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7bflag2_2.webp)
+
 The fast method that isn't too much harder. After breaking the first cloud, do a right dash, then a right dash curved up rather late to grab the crystal.
  
 After getting the crystal, begin holding right. Fall to the bottom, then do another right dash into a right dash curved up, reaching the final cloud.
+
+   </details> 
  
  ## Core C - Room 3 ##
  
