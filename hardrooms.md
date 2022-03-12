@@ -87,7 +87,7 @@ Congrats on clearing the hardest room in Superdash 100% (hopefully)!
    
 The hard part of this room is falling through the gap right before the end section. The beginning cycle shown here lets you enter the hard section as soon as possible, which is important. 
 
-![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2-2.webp)
+![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2_2.webp)
 
 As soon as you up-right dash into the hard section, fall down to the lowest, leftmost area as shown here. On the right, I have hitboxes on to show that you have more room on the bottom left and top right than you may think.
 
