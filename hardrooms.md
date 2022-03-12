@@ -86,7 +86,7 @@ Congrats on clearing the hardest room in Superdash 100% (hopefully)!
 ![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2.webp)
    
 The hard part of this room is falling through the gap right before the end section. The beginning cycle shown here lets you enter the hard section as soon as possible, which is important. 
-
+   
 As soon as you up-right dash into the hard section, fall down to the lowest, leftmost area as shown here. On the right, I have hitboxes on to show that you have more room on the bottom left and top right than you may think.
 
 Initiate a right dash, then begin to hold up when you reach the area indicated here.
@@ -113,23 +113,31 @@ I don't think this is good but I might as well put it here.
 
  ## Summit B 2000M - Room 4
  
+ <img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m4_1.webp" width="384" height="216"/>
+ 
    <details>
       <summary>Normal Strat</summary>
 
 For the ending cloud of this room, you do a left dash curved down. For the second dash, you have two options.
-
-**Right Dash Curved Up**
    
-Start the dash from lower, and try to curve up later so you don't hit the spikes.
-
 **Right Dash Curved Down**
    
+![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m4_1.webp)
+
 Start the dash from higher so you can give your dash more time to curve down. When you land, dash down on the cloud so you don't slip off.
+   
+**Right Dash Curved Up**
+ 
+![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m4_2.webp)
+
+Start the dash from lower, and try to curve up later so you don't hit the spikes. You might have to hold right after the dash ends so you can land in the middle of the cloud.
 
    </details>
    
    <details>
       <summary>Demodash Setup</summary>
+   
+![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m4_3.webp)
    
 Decent alternative to the normal strat.
 
@@ -143,31 +151,31 @@ Align on this pixel (Madeline's highest pixel is 3 pixels above the top of the b
 
 ### **IMPORTANT:** 
 
-Lastly, make sure to stay CROUCHED while waiting on and jumping off the cloud. This makes it so you don't need to adjust for the wind nearly as much (or at all).
+Lastly, make sure to stay CROUCHED while waiting on and jumping off the cloud. You can hold crouch the entire time before dashing up. This makes it so you don't need to adjust for the wind nearly as much (or at all).
 
  ## Summit B 3000M - Flag 12
  
- The second half of this flag is one of the most difficult room clears in the game. Starting after the second spring hit up top, you want to do a left dash curved down and aim to fall to the lower left corner. From there, dash right and curve up at the very end of the dash, then hold in towards the spring. 
+ The second half of this flag is one of the most difficult room clears in the game. Starting after the second spring hit up top, you want to do a left dash curved down and aim to fall to the lower left corner. From there, dash right and curve up-right at the very end of the dash, then hold in towards the spring. 
  
- Optional: For the next part, you don't to get too much height, so you can dash back into the spring to get a lower spring hit (and to make the flag less input dense, kind of).
+ Optional: For the next part, to avoid going too high, you can dash back into the spring to get a lower spring hit (and to make the flag less input dense)
  
- After hitting the spring, do an upright dash at this point below, then begin to curve up shortly after.
+ After hitting the spring, do an up-right dash shortly after and curve up immediately.
+ 
+ Another thing you can do is dash into and grab here, then slide down into the spring. However, this changes the timing of the up-right dash.
  
  ## Summit B 3000M - Flag 2
  
- The hardest part of this flag is the ending section, but I'm showing easy beginning strats here as well.
- 
- At the end of the flag, there are two main ways you can reach the final cloud.
+ The hardest part of this flag is the ending section - there are two main ways you can reach the final cloud.
  
  Option 1
  
- Easier but slower method. After breaking the first cloud, use an up-right dash curved up to land on the next cloud. From there, fall, do a right dash, then a right dash curved up to land on the next cloud. Walk off the cloud, then the final cloud should be simple.
+ Easier but slower method. After breaking the first cloud, use an up-right dash curved up to land on the next cloud. From there, fall, do a right dash, then a right dash curved up to land on the next cloud. Walk off the cloud (or do a short hop), then the final cloud should be simple. Using a demodash button can also help to avoid hitting spikes above you.
  
  Option 2
  
-The fast method that isn't too much harder. After breaking the first cloud, do a right dash, then a right dash curved up (late) to grab the crystal. Here is about where you should do the second right dash.
+The fast method that isn't too much harder. After breaking the first cloud, do a right dash, then a right dash curved up rather late to grab the crystal.
  
-After getting the crystal, begin holding right. Fall to the bottom, then do another right dash into a right dash curved up, reaching the final cloud. Here is the visual cue for this one.
+After getting the crystal, begin holding right. Fall to the bottom, then do another right dash into a right dash curved up, reaching the final cloud.
  
  ## Core C - Room 3 ##
  
