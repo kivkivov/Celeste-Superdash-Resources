@@ -87,13 +87,17 @@ Congrats on clearing the hardest room in Superdash 100% (hopefully)!
    
 The hard part of this room is falling through the gap right before the end section. The beginning cycle shown here lets you enter the hard section as soon as possible, which is important. 
 
-![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2_2.webp)
+![cue](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2_1.png)
 
 As soon as you up-right dash into the hard section, fall down to the lowest, leftmost area as shown here. On the right, I have hitboxes on to show that you have more room on the bottom left and top right than you may think.
+   
+<img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2_2.png" width="470" height="310"/>
 
-Initiate a right dash, then begin to hold up when you reach the area indicated here.
+Initiate a right dash, then begin to hold up when you reach the area indicated here. Fall down, grab the block, and the rest of the room should be simple. 
 
-Fall down, grab the block, and the rest of the room should be simple. This is the 'simplest' strat here but it may be more precise for some than Option 2.
+![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2_2.webp)
+
+This is the 'simplest' strat here but it may be more precise for some than Option 2.
    
    </details>
 
@@ -172,8 +176,8 @@ Lastly, make sure to stay CROUCHED while waiting on and jumping off the cloud. Y
  ![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7bflag12_3.webp)
 
  After hitting the spring, do an up-right dash shortly after and curve up immediately.
- 
- ![cue](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7bflag12.png)
+
+ <img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7bflag12.png" width="229" height="212"/>
 
  Another thing you can do is dash into and grab here, then slide down into the spring. However, this changes the timing of the up-right dash.
  
