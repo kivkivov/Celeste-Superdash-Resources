@@ -115,7 +115,7 @@ Unlike in Option 1, the beginning cycle sets you up to enter the hard section as
    
 ![gif](https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/7b2000m2_4.webp)
 
-Pretty difficult, so I wouldn't recommend. It's good if you hate curving maybe lol????? The idea is to grab the block at the right pixel, then demodash right, timed precisely before you are about to touch the spikes.
+Pretty difficult, so I wouldn't recommend. It's good if you hate curving maybe lol????? The idea is to grab the block at the right pixel, then demodash left, timed precisely before you are about to touch the spikes.
 
    </details>
 
