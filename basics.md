@@ -82,21 +82,19 @@ Hold upright, continue to hold right, and move the middle finger from up to down
 Perform a quick quarter-circle motion from upright to downright. Superdashes do not use analog angles, so there is no need to move the stick gradually.
 </details>
 
+With this newly acquired information, you should be well-equipped to start speedrunning Superdash! If you have any questions, feel free to ask in the Superdash Discord! 
 
-
-
-With this newly acquired information, you should be well-equipped to start learning how to speedrun Superdash! If you have any questions, feel free to ask in the Superdash Discord! 
-(i will personally coach you for free please i am desperate to not have this beautiful category die)
+######(i will personally coach you for free please i am desperate to not have this beautiful category die)
 
 Thanks for reading!
 
-Join the Superdash Discord!
+[Join the Superdash Discord!](https://discord.gg/ZGRt3bdMp2)
 
-Superdash Any% Tutorial Playlist (WIP)
+[Superdash Any% Tutorial Playlist (WIP)]()
 
-Superdash ILs on speedrun.com
+[Superdash ILs on speedrun.com](https://www.speedrun.com/celeste_category_extensions#Super_Dash)
 
-Superdash Any%/ARB on speedrun.com
+[Superdash Any%/ARB on speedrun.com](https://www.speedrun.com/celeste_category_extensions/levels)
 
 
 
