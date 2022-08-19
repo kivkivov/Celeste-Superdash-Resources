@@ -17,7 +17,7 @@ This page will serve as a basic introduction to Superdash mechanics and will con
 
 ## What is Superdash?
 
-<img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/basics/variants.PNG" width="434" height="108"/>
+<img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/basics/variants.PNG" width="869" height="217"/>
 
 Superdash is one of the variants in Variant Mode, which is unlocked by completing Chapter 8C. 
 It gives Madeline’s dash some new properties with useful applications for speedrunning!
