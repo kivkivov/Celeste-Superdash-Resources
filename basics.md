@@ -50,7 +50,7 @@ Skill definitely also carries over from vanilla. Runners in the past have been a
 
 (Including keyboard, controller d-pad, and analog stick)
 
-Contrary to widespread belief, Superdash works the same on every basic control scheme. The game only uses inputs in the 8 main directions, even on an analog stick. **The way Superdash curving works is by slowly moving you in the direction you are holding, at a rate of about 4 degrees per frame. Most curving in the speedrun can be achieved by dashing in one direction, then switching to holding a new direction.**
+Contrary to popular belief, Superdash works the same on every basic control scheme. The game only uses inputs in the 8 main directions, even on an analog stick. **The way Superdash curving works is by slowly moving you in the direction you are holding, at a rate of about 4 degrees per frame. Most curving in the speedrun can be achieved by dashing in one direction, then switching to holding a new direction.**
 
 On the speedrun.com Superdash Any% leaderboards, 1st place uses the analog stick and 2nd place uses keyboard. Out of the 8 sub 40 minute runs, there is a 50/50 split between analog and non-analog players. 
 
