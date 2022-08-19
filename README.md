@@ -11,9 +11,9 @@ Links
 
 [Official speedrun.com Superdash Leaderboards](https://www.speedrun.com/celeste_category_extensions#Super_Dash)
 
-[Unofficial Celeste Category Extensions Leaderboard (ft. Superdash Categories)](https://docs.google.com/spreadsheets/d/1MuEWE0IE50u6bxN3gVRS83-liA4zTVeQv0RHUXZyHDs)
+[Official speedrun.com Superdash IL Leaderboards](https://www.speedrun.com/celeste_category_extensions/levels)
 
-[Public Superdash IL Leaderboards](https://docs.google.com/spreadsheets/d/1P5WfwPfDQow9hSvGoALLxPqzdPzSaNFkYEhqJ3AQv2I)
+[Unofficial Celeste Category Extensions Leaderboard (ft. Superdash Categories)](https://docs.google.com/spreadsheets/d/1MuEWE0IE50u6bxN3gVRS83-liA4zTVeQv0RHUXZyHDs)
 
 [Superdash TAS Playlist](https://www.youtube.com/playlist?list=PLUg8OPRIDJlLOl2DR7WBbzRliHCRGUpg8)
 
