@@ -21,8 +21,8 @@ Aside from these differences, gameplay functions the same. You are still able to
 
 ## Why speedrun Superdash?
 - The movement is very high-paced, fluid, and overall really satisfying.
-- We are a small but dedicated community. Which also means you can climb the speedrun.com leaderboards easier >:)
-- It’s easier to get lower times in Any% due to some easy timesaves, like 4A first autoscroller room
+- We are a small but dedicated community. This also means you can climb the speedrun.com leaderboards easier. >:)
+- It’s easier to get lower times in Any% due to some easy timesaves, like 4A first autoscroller room.
 - It’s not hard! (see below)
 
 ## Speedrunning Superdash is probably easier than you think!
