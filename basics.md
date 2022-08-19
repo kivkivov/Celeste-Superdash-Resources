@@ -7,12 +7,14 @@ This page will serve as a basic introduction to Superdash mechanics and will con
 Superdash is one of the variants in Variant Mode, which is unlocked by completing Chapter 8C. 
 It gives Madeline’s dash some new properties with useful applications for speedrunning!
 
-Longer dash length
+**Longer dash length**
 - Allows you to input a wallbounce or hyper/super much later than normal
 - The length of a dash can greatly increase if you have lots of speed, but the dash always lasts the same duration.
-Ability to curve your dash up to 90 degrees
+
+**Ability to curve your dash up to 90 degrees**
 - Allows you to transfer your speed into any direction
-Ability to dash before the current dash ends
+
+**Ability to dash before the current dash ends**
 - Allows you to preserve and continue to build your speed
 
 Aside from these differences, gameplay functions the same. You are still able to hyper, wallbounce, etc., which are still central to speedrunning.
