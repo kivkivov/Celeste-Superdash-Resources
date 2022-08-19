@@ -73,16 +73,19 @@ If you are trying to arc and aim for a small platform, hold downright when you a
 
 <details>
 <summary>Input for D-Pad (Controller)</summary>
+  
 Hold upright, let go of up while continuing to hold right, then roll the thumb downward to hit down as well
 </details>
 
 <details>
 <summary>Input for Keyboard</summary>
+  
 Hold upright, continue to hold right, and move the middle finger from up to down.
 </details>
 
 <details>
 <summary>Input for Analog Stick (Controller)</summary>
+
 Perform a quick quarter-circle motion from upright to downright. Superdashes do not use analog angles, so there is no need to move the stick gradually.
 </details>
 
