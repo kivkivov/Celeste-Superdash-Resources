@@ -39,14 +39,15 @@ On the speedrun.com Superdash Any% leaderboards, 1st place uses the analog stick
 
 Curving a dash may feel less intuitive on buttons or keys at first, but with practice, inputting curves becomes snappy and precise, possibly even more so than on analog.
 
-
-
-Sidenote: An overly technical look at Superdash + Analog:
+<details>
+<summary>Sidenote: An overly technical look at Superdash + Analog:</summary>
+  
 The only use of analog movement (besides feathers of course) in Superdash TASes is to do a reverse ultrahop 1 frame faster than normal. This is done by curving a left dash downward with a down input that is angled slightly right of directly downwards. This allows you to then curve right (because it is now within ~90 degrees of difference) while reversing the hyper, maintaining the ultrahop boost. By the way, reverse ultrahops are not even humanly viable. Analog is clearly broken for Superdash guys!!!
 
 Here is the original explanation of how analog is used in TASing.
 
 Basically, although the game converts analog directions to digital ones for movement, it checks for some properties of the dash separately in their original analog form. This is also the reason why the analog stick was capable of easy upwards demodashes before Update 1.4.0.0 introduced an in-game demo button, which now allows all control schemes to input easy upwards demodashes.
+</details>
 
 ## How do speed chains work?
 Hypering and then quickly dashing and curving into the direction you want to go is a simple yet effective way to make use of Superdash speed. You can even use this to travel upwards faster.  For building and keeping speed for longer periods of time, there are a few things you should know.
@@ -66,12 +67,20 @@ In summary, to , start with a **source of speed** like a hyper, **downright dash
 ## Tips for Inputting Arcs
 The simplest way to think of inputting an arc is first dashing while holding upright, then switching to holding downright in the middle of the dash. The moment you begin to hold downright, the dash will slowly curve/adjust in that direction at a speed of 4 degrees/frame. If you are trying to arc and aim for a small platform, hold downright when you are at about the midpoint between where you dashed and the platform. Because superdashes curve at a consistent rate and have a set duration, directing your arcs like this proves very consistent, even with varying speeds.
 
-Input for D-Pad (Controller)
+<details>
+<summary>Input for D-Pad (Controller)</summary>
 Hold upright, let go of up while continuing to hold right, then roll the thumb downward to hit down as well
-Input for Keyboard
+</details>
+
+<details>
+<summary>Input for Keyboard</summary>
 Hold upright, continue to hold right, and move the middle finger from up to down.
-Input for Analog Stick (Controller)
+</details>
+
+<details>
+<summary>Input for Analog Stick (Controller)</summary>
 Perform a quick quarter-circle motion from upright to downright. Superdashes do not use analog angles, so there is no need to move the stick gradually.
+</details>
 
 
 
@@ -81,10 +90,14 @@ With this newly acquired information, you should be well-equipped to start learn
 
 Thanks for reading!
 
+Join the Superdash Discord!
+
 Superdash Any% Tutorial Playlist (WIP)
+
 Superdash ILs on speedrun.com
+
 Superdash Any%/ARB on speedrun.com
 
-Join the Superdash Discord!
+
 
 
