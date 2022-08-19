@@ -25,7 +25,7 @@ It gives Madeline’s dash some new properties with useful applications for spee
 
 **Ability to curve your dash up to 90 degrees**
 - Allows you to transfer your speed into any direction
-- If your dash is curved any bit downward, you keep your speed after your dash ends.
+- If your dash is curved any bit downwards, you keep your speed after your dash ends.
 
 **Ability to dash before the current dash ends**
 - Allows you to preserve and continue to build your speed
