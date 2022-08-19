@@ -1,6 +1,13 @@
 # Superdash Speedrunning Basics
 ###### (5-10 minute read)
-
+## Contents
+- [What is Superdash?](
+- [Why speedrun Superdash?](
+- [Speedrunning Superdash is probably easier than you think!](
+- [Superdash can be played optimally on all control schemes!](
+- [How do speed chains work?](
+- [Tips for Inputting Arcs](
+- Additional Resources/Links
 This page will serve as a basic introduction to Superdash mechanics and will contain everything you need to know as a new Superdash speedrunner!
 
 ## What is Superdash?
@@ -33,7 +40,9 @@ Superdash at a glance may seem like learning an entire new game, but learning Su
 
 Skill definitely also carries over from vanilla. Runners in the past have been able to beat their normal Any% times within a few runs. Once you get accustomed to the basic mechanics, Superdash can also be just as consistent as normal Celeste.
 
-## Superdash can be played optimally on all control schemes (keyboard, controller d-pad, analog stick)!
+## Superdash can be played optimally on all control schemes!
+
+(including keyboard, controller d-pad, and analog stick)
 
 Contrary to widespread belief, Superdash works the same on every basic control scheme. The game only uses inputs in the 8 main directions, even on an analog stick. **The way Superdash curving works is by slowly moving you in the direction you are holding, at a rate of about 4 degrees per frame. Most curving in the speedrun can be achieved by dashing in one direction, then switching to holding a new direction.**
 
