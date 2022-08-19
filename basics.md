@@ -1,14 +1,19 @@
 # Superdash Speedrunning Basics
 ###### (5-10 minute read)
+
+<img src=""/>
+
+This page will serve as a basic introduction to Superdash mechanics and will contain everything you need to know as a new Superdash speedrunner!
+
 ## Contents
 - [What is Superdash?](#what-is-superdash)
-- [Why speedrun Superdash?](
-- [Speedrunning Superdash is probably easier than you think!](
-- [Superdash can be played optimally on all control schemes!](
-- [How do speed chains work?](
-- [Tips for Inputting Arcs](
-- Additional Resources/Links
-This page will serve as a basic introduction to Superdash mechanics and will contain everything you need to know as a new Superdash speedrunner!
+- [Why speedrun Superdash?](#why-speedrun-superdash)
+- [Speedrunning Superdash is probably easier than you think!](#speedrunning-superdash-is-probably-easier-than-you-think)
+- [Superdash can be played optimally on all control schemes!](#superdash-can-be-played-optimally-on-all-control-schemes)
+- [How do speed chains work?](#how-do-speed-chains-work)
+- [Tips for Inputting Arcs](#tips-for-inputting-arcs)
+- [Additional Resources/Links](#thanks-for-reading)
+
 
 ## What is Superdash?
 Superdash is one of the variants in Variant Mode, which is unlocked by completing Chapter 8C. 
