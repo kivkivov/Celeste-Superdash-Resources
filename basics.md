@@ -112,7 +112,7 @@ With this newly acquired information, you should be well-equipped to start speed
 
 ### Thanks for reading!
 
-[Superdash Any% Tutorial Playlist (WIP)]()
+[Superdash Any% Tutorial Playlist (WIP)](https://www.youtube.com/playlist?list=PLUg8OPRIDJlIzqEgb6w8EDb_KBkyAa70e)
 
 [Join the Superdash Discord!](https://discord.gg/ZGRt3bdMp2)
 
