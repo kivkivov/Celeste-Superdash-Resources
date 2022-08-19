@@ -84,13 +84,13 @@ Perform a quick quarter-circle motion from upright to downright. Superdashes do 
 
 With this newly acquired information, you should be well-equipped to start speedrunning Superdash! If you have any questions, feel free to ask in the Superdash Discord! 
 
-######(i will personally coach you for free please i am desperate to not have this beautiful category die)
+###### (i will personally coach you for free please i am desperate to not have this beautiful category die)
 
 Thanks for reading!
 
-[Join the Superdash Discord!](https://discord.gg/ZGRt3bdMp2)
-
 [Superdash Any% Tutorial Playlist (WIP)]()
+
+[Join the Superdash Discord!](https://discord.gg/ZGRt3bdMp2)
 
 [Superdash ILs on speedrun.com](https://www.speedrun.com/celeste_category_extensions#Super_Dash)
 
