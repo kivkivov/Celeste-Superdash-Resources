@@ -1,7 +1,7 @@
 # Superdash Speedrunning Basics
 ###### (5-10 minute read)
 ## Contents
-- [What is Superdash?](
+- [What is Superdash?](#what-is-superdash)
 - [Why speedrun Superdash?](
 - [Speedrunning Superdash is probably easier than you think!](
 - [Superdash can be played optimally on all control schemes!](
