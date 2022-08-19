@@ -67,7 +67,7 @@ Curving a dash may feel less intuitive on buttons or keys at first, but with pra
   
 The only use of analog movement (besides feathers of course) in Superdash TASes is to do a reverse ultrahop 1 frame faster than normal. This is done by curving a left dash downward with a down input that is angled slightly right of directly downwards. This allows you to then curve right (because it is now within ~90 degrees of difference) while reversing the hyper, maintaining the ultrahop boost. By the way, reverse ultrahops are not even humanly viable. Analog is clearly broken for Superdash guys!!!
 
-Here is the original explanation of how analog is used in TASing.
+[Here is the original explanation of how analog is used in TASing.]()
 
 Basically, although the game converts analog directions to digital ones for movement, it checks for some properties of the dash separately in their original analog form. This is also the reason why the analog stick was capable of easy upwards demodashes before Update 1.4.0.0 introduced an in-game demo button, which now allows all control schemes to input easy upwards demodashes.
 </details>
