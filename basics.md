@@ -47,7 +47,7 @@ Skill definitely also carries over from vanilla. Runners in the past have been a
 
 ## Superdash can be played optimally on all control schemes!
 
-(including keyboard, controller d-pad, and analog stick)
+(Including keyboard, controller d-pad, and analog stick)
 
 Contrary to widespread belief, Superdash works the same on every basic control scheme. The game only uses inputs in the 8 main directions, even on an analog stick. **The way Superdash curving works is by slowly moving you in the direction you are holding, at a rate of about 4 degrees per frame. Most curving in the speedrun can be achieved by dashing in one direction, then switching to holding a new direction.**
 
@@ -88,7 +88,7 @@ If you are trying to arc and aim for a small platform, hold downright when you a
 <details>
 <summary>Input for D-Pad (Controller)</summary>
   
-Hold upright, let go of up while continuing to hold right, then roll the thumb downward to hit down as well
+Hold upright, let go of up while continuing to hold right, then roll the thumb downward to hit down as well.
 </details>
 
 <details>
