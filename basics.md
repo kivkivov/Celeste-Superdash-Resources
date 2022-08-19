@@ -1,7 +1,7 @@
 # Superdash Speedrunning Basics
 ###### (5-10 minute read)
 
-<img src=""/>
+<img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/basics/header.png"/>
 
 This page will serve as a basic introduction to Superdash mechanics and will contain everything you need to know as a new Superdash speedrunner!
 
@@ -40,6 +40,8 @@ Aside from these differences, gameplay functions the same. You are still able to
 
 ## Speedrunning Superdash is probably easier than you think!
 
+<img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/basics/free.PNG"/>
+
 According to other runners I’ve talked to, Superdash was much easier to learn than most people think.
 
 Superdash at a glance may seem like learning an entire new game, but learning Superdash is simply an extension of normal Celeste. The physics and core mechanics remain the same and have the same familiar feel, even with the addition of high-speed strats and curving. It is also a viable strategy to use the same vanilla strats in a Superdash run, so the barrier to entry is quite low! Superdash is by no means a big commitment, especially if you just want to pick a single level to practice and submit to speedrun.com!
@@ -67,6 +69,10 @@ Basically, although the game converts analog directions to digital ones for move
 </details>
 
 ## How do speed chains work?
+
+<img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/basics/arc.png"/>
+
+
 Hypering and then quickly dashing and curving into the direction you want to go is a simple yet effective way to make use of Superdash speed. You can even use this to travel upwards faster.  For building and keeping speed for longer periods of time, there are a few things you should know.
 
 Speed chains mostly consist of a mix of **downright dashes** and **arcing**, two techniques that are **fundamental to superdash** and have their own unique uses.
