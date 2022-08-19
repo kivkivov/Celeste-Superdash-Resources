@@ -67,7 +67,9 @@ Here is a video breaking down what goes on in a typical speed chain.
 In summary, to , start with a **source of speed** like a hyper, **downright dash** when possible, and **arc** to maintain speed across bumpier terrain. Be sure to avoid hitting walls or ceilings, because this breaks the speed chain.
 
 ## Tips for Inputting Arcs
-The simplest way to think of inputting an arc is first dashing while holding upright, then switching to holding downright in the middle of the dash. The moment you begin to hold downright, the dash will slowly curve/adjust in that direction at a speed of 4 degrees/frame. If you are trying to arc and aim for a small platform, hold downright when you are at about the midpoint between where you dashed and the platform. Because superdashes curve at a consistent rate and have a set duration, directing your arcs like this proves very consistent, even with varying speeds.
+The simplest way to think of inputting an arc is first dashing while holding upright, then switching to holding downright in the middle of the dash. The moment you begin to hold downright, the dash will slowly curve/adjust in that direction at a speed of 4 degrees/frame. Although it may seem counterintuitive to curving, there is no need to gradually change directions; the game does this for you. 
+
+If you are trying to arc and aim for a small platform, hold downright when you are at about the midpoint between where you dashed and the platform. Because superdashes curve at a consistent rate and have a set duration, directing your arcs like this proves very consistent, even with varying speeds.
 
 <details>
 <summary>Input for D-Pad (Controller)</summary>
@@ -83,6 +85,8 @@ Hold upright, continue to hold right, and move the middle finger from up to down
 <summary>Input for Analog Stick (Controller)</summary>
 Perform a quick quarter-circle motion from upright to downright. Superdashes do not use analog angles, so there is no need to move the stick gradually.
 </details>
+
+***
 
 With this newly acquired information, you should be well-equipped to start speedrunning Superdash! If you have any questions, feel free to ask in the Superdash Discord! 
 
