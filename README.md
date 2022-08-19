@@ -1,6 +1,6 @@
 # Celeste Superdash Speedrunning Resources
 
-WORK IN PROGRESS
+# WORK IN PROGRESS
 
 
 [Here are my controller binds for reference.](https://imgur.com/0GW8ok7)
