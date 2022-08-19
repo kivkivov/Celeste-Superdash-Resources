@@ -88,7 +88,7 @@ With this newly acquired information, you should be well-equipped to start speed
 
 ###### (i will personally coach you for free please i am desperate to not have this beautiful category die)
 
-Thanks for reading!
+### Thanks for reading!
 
 [Superdash Any% Tutorial Playlist (WIP)]()
 
