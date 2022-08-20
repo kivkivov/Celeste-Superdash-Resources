@@ -25,9 +25,9 @@ It gives Madeline’s dash some new properties with useful applications for spee
 
 **Longer dash length**
 - Allows you to input a wallbounce or hyper/super much later than normal
-- The length of a dash can greatly increase if you have lots of speed, but the dash always lasts the same duration.
+- The length of your dash can become even longer at high speeds, but the dash always lasts the same duration.
 
-**Ability to curve your dash up to 90 degrees**
+**Ability to curve your dash up to ~90 degrees**
 - Allows you to transfer your speed into any direction
 - If your dash is curved any bit downwards, you keep your speed after your dash ends.
 
@@ -44,11 +44,11 @@ Aside from these differences, gameplay functions the same. You are still able to
 
 ## Speedrunning Superdash is probably easier than you think!
 
-<img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/basics/free.PNG"/>
+<img src="https://github.com/kivkivov/Celeste-Superdash-Resources/blob/main/(media)/basics/fast.PNG"/>
 
 According to other runners I’ve talked to, Superdash was much easier to learn than most people think.
 
-Superdash at a glance may seem like learning an entire new game, but learning Superdash is simply an extension of normal Celeste. The physics and core mechanics remain the same and have the same familiar feel, even with the addition of high-speed strats and curving. It is also a viable strategy to use the same vanilla strats in a Superdash run, so the barrier to entry is quite low! Superdash is by no means a big commitment, especially if you just want to pick a single level to practice and submit to speedrun.com!
+Superdash at a glance may seem like learning an entire new game, but learning Superdash is simply an extension of normal Celeste and is closer to learning a new category like ARB. The physics and core mechanics remain the same and have the same familiar feel, even with the addition of high-speed strats and curving. It is also a viable strategy to use the same vanilla strats in a Superdash run, so the barrier to entry is quite low! Superdash is by no means a big commitment, especially if you just want to pick a single level to practice and submit to speedrun.com!
 
 Skill definitely also carries over from vanilla. Runners in the past have been able to beat their normal Any% times within a few runs. Once you get accustomed to the basic mechanics, Superdash can also be just as consistent as normal Celeste.
 
@@ -65,9 +65,9 @@ Curving a dash may feel less intuitive on buttons or keys at first, but with pra
 <details>
 <summary>Sidenote: An overly technical look at Superdash + Analog:</summary>
   
-The only use of analog movement (besides feathers of course) in Superdash TASes is to do a reverse ultrahop 1 frame faster than normal. This is done by curving a left dash downward with a down input that is angled slightly right of directly downwards. This allows you to then curve right (because it is now within ~90 degrees of difference) while reversing the hyper, maintaining the ultrahop boost. By the way, reverse ultrahops are not even humanly viable. Analog is clearly broken for Superdash guys!!!
+The only use of analog movement (besides feathers of course) in Superdash TASes is to do a reverse ultrahop 1 frame faster than normal. This is done by curving a left dash downward, with a down input that is angled slightly right of directly downwards. This allows you to then curve right (because it is now within ~90 degrees of difference) while reversing the hyper, maintaining the ultrahop boost. By the way, reverse ultrahops are not even humanly viable. Analog is clearly broken for Superdash guys!!!
 
-[Here is the original explanation of how analog is used in TASing.]()
+[Here is the original explanation of how analog is used in TASing.](https://raw.githubusercontent.com/kivkivov/Celeste-Superdash-Resources/main/(media)/basics/analog.PNG)
 
 Basically, although the game converts analog directions to digital ones for movement, it checks for some properties of the dash separately in their original analog form. This is also the reason why the analog stick was capable of easy upwards demodashes before Update 1.4.0.0 introduced an in-game demo button, which now allows all control schemes to input easy upwards demodashes.
 </details>
