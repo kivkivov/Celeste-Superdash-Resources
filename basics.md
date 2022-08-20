@@ -99,13 +99,16 @@ If you are trying to arc and aim for a small platform, hold downright when you a
 <details>
 <summary>Input for D-Pad (Controller)</summary>
   
-Hold upright, let go of up while continuing to hold right, then roll the thumb downward to hit down as well.
+Hold upright, let go of up while continuing to hold right, then roll your thumb downward to hit down as well.
 </details>
 
 <details>
 <summary>Input for Keyboard</summary>
   
 Hold upright, continue to hold right, and move the middle finger from up to down.
+  
+This might be different depending on which fingers you prefer to use, but the general idea is to switch from up to down while holding forward.
+  
 </details>
 
 <details>
