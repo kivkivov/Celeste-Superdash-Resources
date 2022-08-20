@@ -126,9 +126,9 @@ With this newly acquired information, you should be well-equipped to start speed
 
 [Join the Superdash Discord!](https://discord.gg/ZGRt3bdMp2)
 
-[Superdash ILs on speedrun.com](https://www.speedrun.com/celeste_category_extensions#Super_Dash)
+[Superdash ILs on speedrun.com](https://www.speedrun.com/celeste_category_extensions/levels)
 
-[Superdash Any%/ARB on speedrun.com](https://www.speedrun.com/celeste_category_extensions/levels)
+[Superdash Any%/ARB on speedrun.com](https://www.speedrun.com/celeste_category_extensions#Super_Dash)
 
 
 
