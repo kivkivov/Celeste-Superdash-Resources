@@ -89,12 +89,12 @@ Arcing is the Superdash application of **ultradashing,** which also means buffer
 
 [Here is a video breaking down what goes on in a typical speed chain.]()
 
-In summary, you usually want to start with a **source of speed** like a hyper, **downright dash** when possible, and **arc** to maintain speed across bumpier terrain. Be sure to avoid hitting walls or ceilings, because this breaks the speed chain. Learning speed chains is more about practicing the chain rather than improvising, but it is still good to know how and why they work.
+In summary, you usually want to start with a **source of speed** like a hyper, **downright dash** when possible to multiply your speed, and **arc** to maintain speed across bumpier terrain. Be sure to avoid hitting walls or ceilings, because this breaks the speed chain. Learning speed chains is more about practicing the chain rather than improvising, but it is still good to know how and why they work.
 
 ## Tips for Inputting Arcs
 The simplest way to think of inputting an arc is first dashing while holding upright, then switching to holding downright in the middle of the dash. The moment you begin to hold downright, the dash will slowly curve/adjust in that direction at a speed of 4 degrees/frame. Although it may seem counterintuitive to curving, there is no need to gradually change directions; the game does this for you. 
 
-If you are trying to arc and aim for a small platform, hold downright when you are at about the midpoint between where you dashed and the platform. Because superdashes curve at a consistent rate and have a set duration, directing your arcs like this proves very consistent, even with varying speeds.
+If you are trying to arc and aim for a small platform, start holding downright when you are at about the midpoint between where you dashed and where you want to land. Because superdashes curve at a consistent rate and have a set duration, directing your arcs like this proves quite consistent, even with varying speeds. Getting comfortable with arcing alone is a great skill, as it allows you to do the great majority of strats involving curving.
 
 <details>
 <summary>Input for D-Pad (Controller)</summary>
