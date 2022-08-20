@@ -7,6 +7,8 @@
 
 Links
 
+[![Discord](https://discord.com/api/guilds/772776549324947466/widget.png?style=banner2)](https://discord.gg/ZGRt3bdMp2)
+
 [Superdash Discord (Also for the Unofficial Leaderboard)](https://discord.gg/ZGRt3bdMp2)
 
 [Official speedrun.com Superdash Leaderboards](https://www.speedrun.com/celeste_category_extensions#Super_Dash)
