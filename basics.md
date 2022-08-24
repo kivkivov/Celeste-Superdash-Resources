@@ -5,7 +5,7 @@
 
 This page will serve as a basic introduction to Superdash mechanics and will contain everything you need to know as a new Superdash speedrunner!
 
-[For an introduction to Celeste speedrunning in general, watch Programmatic's Any% tutorial.](https://www.youtube.com/watch?v=Dqu0LBj8nUc)
+[For an introduction to Celeste speedrunning in general, check out Programmatic's Any% tutorial.](https://www.youtube.com/watch?v=Dqu0LBj8nUc)
 ## Contents
 - [What is Superdash?](#what-is-superdash)
 - [Why speedrun Superdash?](#why-speedrun-superdash)
