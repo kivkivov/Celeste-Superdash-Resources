@@ -3,7 +3,7 @@
 # WORK IN PROGRESS
 
 
-[Here are my controller binds for reference.](https://imgur.com/0GW8ok7)
+[Here are my controller binds for reference.](https://i.imgur.com/FoI4BDg.png)
 
 Links
 
