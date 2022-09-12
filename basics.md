@@ -87,7 +87,7 @@ Speed chains mostly consist of a mix of **downright dashes** and **arcing**, two
 
 Arcing is the Superdash application of **ultradashing,** which also means buffering a jump after an arc may not give you the 1.2x speed. The motion of an arc transfers more speed forwards, and it gives you the freedom to maneuver around bumpy terrain while keeping speed. 
 
-[Here is a video breaking down what goes on in a typical speed chain.](https://youtu.be/hpyl4WXmU9g?t=167)
+[This part of my Awake guide breaks down what goes on in a typical speed chain.](https://youtu.be/hpyl4WXmU9g?t=167)
 
 In summary, you usually want to start with a **source of speed** like a hyper, **downright dash** when possible to multiply your speed, and **arc** to maintain speed across bumpier terrain. Be sure to avoid hitting walls or ceilings, because this breaks the speed chain. Learning speed chains is more about practicing the chain rather than improvising, but it is still good to know how and why they work.
 
