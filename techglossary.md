@@ -56,7 +56,7 @@ https://youtube.com/clip/UgkxC312G-5ldsglRb68hxjyceLyhl5TGz7Z?feature=shared
 It is possible to start a horizontal dash, wait until your dash refreshes, then curve either up or down off the ground.
 
 ### Wiggling
-If you are in the air with no speed, the best way to get the most horizontal distance is to do a wiggle. Dash forward, curve forward+down, then quickly switch to forward again.
+If you are in the air with no speed, the easiest way to get the most horizontal distance is to do a wiggle. Dash forward, curve forward+down, then quickly switch to forward again.
 
 https://youtube.com/clip/Ugkx7I3Gph4FR_ixwLDz5VOgLx4PMpZUZUgH?feature=shared
 
