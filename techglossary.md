@@ -2,6 +2,8 @@ Most, if not all tech in regular Celeste is possible with Superdash.
 
 Superdash Tech:
 
+Dash Cancel
+
 Ultra Dash
 
 Grounded Ultra
