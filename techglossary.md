@@ -8,7 +8,7 @@ to-do: gif examples for each
 In vanilla Celeste, you must wait until a dash ends before dashing again. In Superdash, this dash timer is the same length, even though the dash now continues for longer. This allows you to cancel your dash into another dash, which can be used to preserve or build speed.
 
 ### Ultra Dash
-In vanilla Celeste, ultras are performed by dashing diagonal down in midair, landing, then jumping to get a 1.2x speed boost. Ultras are also possible in Superdash, with diagonal down curves being most frequently used to perform them. Arcing/arc ultras are performed by dashing diagonal up+forward, curving down+forward, then jumping to get the ultra boost. Other types of dashes are commonly used, such as down+forward curved to forward, and forward curved to down+forward. 
+In vanilla Celeste, ultras are performed by dashing diagonal down in midair, landing, then jumping to get a 1.2x speed boost. Ultras are also possible in Superdash, with diagonal down curves being most frequently used to perform them. Arcing/arc ultras are performed by dashing diagonal up+forward, curving down+forward, landing, then jumping to get the ultra boost. Other types of dashes are commonly used, such as down+forward curved to forward, and forward curved to down+forward. 
 
 ### Grounded Ultra
 Grounded Ultras refer to dashing down+forward when grounded, which gives two 1.2x speed boosts in Superdash. When combined with dash chaining, this tech can be used to quickly reach high speeds on flat ground.
