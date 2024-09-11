@@ -32,7 +32,12 @@ For screen exit transitions that require Theo to be held or thrown, you can drop
 
 (Depending on the geometry of the next room, you may get stuck in the floor when trying to build too much speed.)
 
+https://youtube.com/clip/UgkxPfUsIPQLBJjq-Oiw_T2Qeyc1F6hQkKcD?feature=shared
+
 ### Ultrahop
+
+
+https://youtube.com/clip/Ugkxvwsz2iEgNp3MZNGyhTu5BLO9gRZZFflL?feature=shared
 
 reverse uhop?
 
@@ -52,6 +57,9 @@ https://youtube.com/clip/UgkxC312G-5ldsglRb68hxjyceLyhl5TGz7Z?feature=shared
 It is possible to start a horizontal dash, wait until your dash refreshes, then curve either up or down off the ground.
 
 ### Wiggling
+If you are in the air with no speed, the best way to get the most horizontal distance is to do a wiggle. Dash forward, curve forward+down, then quickly switch to forward again.
+
+https://youtube.com/clip/Ugkx7I3Gph4FR_ixwLDz5VOgLx4PMpZUZUgH?feature=shared
 
 ### Mid-dash Cornerglide
 If you cornerglide in the middle of your dash, the angle of your dash seems to change abruptly to a diagonal. This allows you to achieve a dash curved more than usual. In this clip, the dash starts angled up and ends angled downright/right. (This is possible RTA but tough for analog players.)
