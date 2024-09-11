@@ -15,7 +15,7 @@ Tip 2: When dashing and curving, speed is transferred in the direction of the da
 In vanilla Celeste, you must wait until a dash ends before dashing again. In Superdash, this dash timer is the same length, even though the dash now continues for longer. This allows you to cancel your dash into another dash, which can be used to preserve or build speed.
 
 ### Ultra Dash
-In vanilla Celeste, ultras are performed by dashing diagonal down in midair, landing, then jumping to get a 1.2x speed boost. Ultras are also possible in Superdash, with diagonal down curves being most frequently used to perform them. **Arcs** (arc ultras) are performed by dashing diagonal up+forward, curving down+forward, landing, then jumping to get the ultra boost. Other types of dashes are commonly used, such as down+forward curved to forward, and forward curved to down+forward. 
+In vanilla Celeste, ultras are performed by dashing diagonal down in midair, landing, then jumping to get a 1.2x speed boost. Ultras are also possible in Superdash, with diagonal down curves being most frequently used to perform them. **Arcs** (arc ultras) are performed by dashing diagonal up+forward, curving down+forward, landing, then jumping to get the ultra boost. Other types of dashes are commonly used, such as down+forward curved to forward, and forward curved to down+forward. Buffering an ultra can result in missing the speed boost.
 
 ### Grounded Ultra
 Grounded Ultras refer to dashing down+forward when grounded, which gives two 1.2x speed boosts in Superdash. When combined with dash chaining, this tech can be used to quickly reach high speeds on flat ground.
@@ -34,11 +34,11 @@ For screen exit transitions that require Theo to be held or thrown, you can drop
 https://youtube.com/clip/UgkxPfUsIPQLBJjq-Oiw_T2Qeyc1F6hQkKcD?feature=shared
 
 ### Ultrahop
-
+On the ground, demodash forward, tap a down+jump keybind, then jump again to get a bunnyhop with a 1.2x speed boost. The keybind is used to curve down for 1 frame. This lets your hitbox not collide with the ground, which saves your ultra boost for when you actually do collide with the ground and bunnyhop. In order for the ultrahop to work, you may need to wait a little after demoing (because of input buffer I'm guessing) and wait a little before the final jump (just like with regular ultras).
 
 https://youtube.com/clip/Ugkxvwsz2iEgNp3MZNGyhTu5BLO9gRZZFflL?feature=shared
 
-reverse uhop?
+Reverse ultrahops are ultrahops that start with a reverse demohyper instead. AFAIK they require a 1f input of a precise analog angle in order to do get a down curve that is categorized as right, so this tech is not known to be human-viable.
 
 ### Dream Block Angles
 After either grabbing or exiting a dream block, you can buffer a dash along the outside of a dream block, then immediately curve inside to get a consistent angle. You cannot change your dash angle inside a dream block.
