@@ -13,6 +13,8 @@ In vanilla Celeste, ultras are performed by dashing diagonal down in midair, lan
 ### Grounded Ultra
 Grounded Ultras refer to dashing down+forward when grounded, which gives two 1.2x speed boosts in Superdash. When combined with dash chaining, this tech can be used to quickly reach high speeds on flat ground.
 
+### Dash Angles and Speed
+
 ### Curved Wallbounce
 A (normal) wallbounce done with a curved dash. Dash diagonal+up, hold up, then press jump towards the end of the dash. 
 
