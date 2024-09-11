@@ -49,7 +49,7 @@ It is possible to start a horizontal dash, wait until your dash refreshes, then 
 
 Mid-dash Cornerglide
 
-If you cornerglide in the middle of your dash, the angle of your dash seems to change abruptly to a diagonal. This allows you to achieve a dash curved more than usual. In this clip, the dash starts angled up and ends angled downright. (This is possible RTA but tough for analog players.)
+If you cornerglide in the middle of your dash, the angle of your dash seems to change abruptly to a diagonal. This allows you to achieve a dash curved more than usual. In this clip, the dash starts angled up and ends angled downright/right. (This is possible RTA but tough for analog players.)
 
 https://youtube.com/clip/UgkxcGXjDW-pSP_Kg7xNkbjs5I8ALVKQ92ea?feature=shared
 
