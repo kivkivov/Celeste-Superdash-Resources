@@ -1,4 +1,4 @@
-Most, if not all tech in vanilla Celeste is possible with Superdash.
+Most, if not all tech in vanilla Celeste is possible with Superdash. In addition, Superdash offers a variety of new techniques.
 
 Superdash Tech:
 
