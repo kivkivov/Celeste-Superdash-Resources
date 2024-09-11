@@ -46,7 +46,7 @@ After either grabbing or exiting a dream block, you can buffer a dash along the 
 https://youtube.com/clip/UgkxZv8iE7dhyxhuf27CPSH3D89OoevkiBCb?feature=shared
 
 ### Dream Blocks: Phasing through walls
-It is possible to travel through thin walls if you are in a dream block on the current frame and the next frame. This is used in the vanilla 2B speedrun, but Superdash curving allows for this tech to be used in more places.
+It is possible to travel through thin walls if you are in a dream block on the current frame and not touching the wall on the next frame. This is used in the vanilla 2B speedrun, but Superdash curving allows for this tech to be used in more places.
 
 https://youtube.com/clip/UgkxC312G-5ldsglRb68hxjyceLyhl5TGz7Z?feature=shared
 
