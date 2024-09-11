@@ -2,7 +2,6 @@
 
 Most, if not all tech in vanilla Celeste is possible with Superdash. In addition, Superdash offers a variety of new techniques.
 
-to-do: gif examples for each
 ## How to optimize speed chains
 While this isn't a tech, it's helpful to know how to get more speed while doing the same set of movements.
 
