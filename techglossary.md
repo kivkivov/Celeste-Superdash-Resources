@@ -50,7 +50,7 @@ It is possible to travel through thin walls if you are in a dream block on the c
 
 https://youtube.com/clip/UgkxC312G-5ldsglRb68hxjyceLyhl5TGz7Z?feature=shared
 
-## Niche Tech:
+## Niche Tech
 
 ### Curved Dash Refresh
 It is possible to start a horizontal dash, wait until your dash refreshes, then curve either up or down off the ground.
