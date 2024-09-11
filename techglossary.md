@@ -27,14 +27,14 @@ A (normal) wallbounce done with a curved dash. Dash diagonal+up, hold up, then p
 ### Curved Wavedash
 A (normal) wavedash done with a curved dash. As long as your dash ends diagonal down and touches the ground, you can jump to perform a wavedash. This includes down dashes, forward dashes, or even down+diagonal dashes that change directions more than once.
 
-### Ultrahop
-
-reverse uhop?
-
 ### Delayed Theo Transition (DTT)
 For screen exit transitions that require Theo to be held or thrown, you can drop Theo at the exit, infinitely chain grounded ultras at the exit to build speed, then grab Theo to release all of your speed. High speed chains allow you to pass through entities like spinners and doors, effectively skipping rooms.
 
 (Depending on the geometry of the next room, you may get stuck in the floor when trying to build too much speed.)
+
+### Ultrahop
+
+reverse uhop?
 
 ### Dream Block Angles
 After either grabbing or exiting a dream block, you can buffer a dash along the outside of a dream block, then immediately curve inside to get a consistent angle. You cannot change your dash angle inside a dream block.
