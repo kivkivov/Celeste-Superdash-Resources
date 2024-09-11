@@ -8,7 +8,7 @@ While this isn't a tech, it's helpful to know how to get more speed while doing 
 Tip 1: It is better to be in a dash than not, since you do not lose speed while in a dash. If you want to hyper into an upright dash, you will go much faster if you input the upright dash as soon as possible. Waiting to input the dash can cause you to lose a surprising amount of speed.
 Tip 2: When dashing and curving, speed is transferred in the direction of the dash. If you dash upright and curve up, most of your speed will be transferred upwards. If you dash downright and curve right, most of your speed will be transferred right. This concept is important because if you want to optimize for horizontal speed, you want the angle of your dash to stay as horizontal as possible. **Fast arcing**, which is when you dash up+forward, curve down+forward, then curve forward, is an application of this.
 
-## Tech
+## Techniques
 
 ### Dash Chaining
 In vanilla Celeste, you must wait until a dash ends before dashing again. In Superdash, this dash timer is the same length, even though the dash now continues for longer. This allows you to cancel your dash into another dash, which can be used to preserve or build speed.
