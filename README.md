@@ -21,6 +21,7 @@ Links
 
 [Playlist of all my Superdash Content](https://www.youtube.com/playlist?list=PLUg8OPRIDJlLMvJzyVb3q6pSclISfufim)
 
+[Superdash Mechanics (Technical Overview) by Nina](https://docs.google.com/document/d/1v09Z45SKvr-UU20zl1SPv9tfPJgCss_4QBf5_vGghgw/edit#heading=h.y9r0v8eqbakx)
 
 
 superdash is not an analog category
