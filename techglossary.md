@@ -25,19 +25,21 @@ Wiggle?
 
 Delayed Theo Transition (DTT)
 
-For screen exit transitions that require Theo to be held or thrown, you can drop Theo at the exit, infinitely spam grounded ultras at the exit to build speed, then grab Theo to release all of your speed. (Depending on the geometry of the next room, you may get stuck in the floor when trying to build too much speed.)
+For screen exit transitions that require Theo to be held or thrown, you can drop Theo at the exit, infinitely chain grounded ultras at the exit to build speed, then grab Theo to release all of your speed. High speed chains allow you to pass through entities like spinners and doors, effectively skipping rooms.
+
+(Depending on the geometry of the next room, you may get stuck in the floor when trying to build too much speed.)
 
 Dream Block Angles
 
-After either grabbing or exiting a dream block, you can dash along the dream block outside of a dream block, then immediately curve into it to get a consistent angle into the dream block. You cannot change your dash angle inside a dream block.
+After either grabbing or exiting a dream block, you can buffer a dash along the outside of a dream block, then immediately curve inside to get a consistent angle. You cannot change your dash angle inside a dream block.
 
-ex:
+https://youtube.com/clip/UgkxZv8iE7dhyxhuf27CPSH3D89OoevkiBCb?feature=shared
 
 Dream Blocks: Phasing through walls
 
 It is possible to travel through thin walls if you are in a dream block on the current frame and the next frame. This is used in the vanilla 2B speedrun, but Superdash curving allows for this tech to be used in more places.
 
-ex:
+https://youtube.com/clip/UgkxC312G-5ldsglRb68hxjyceLyhl5TGz7Z?feature=shared
 
 Niche Stuff:
 
