@@ -13,13 +13,19 @@ Grounded Ultras refer to dashing down+forward when grounded, which gives 2 1.2x 
 
 Curved Wallbounce
 
+A (normal) wallbounce from a curved dash. Dash diagonal+up, hold up, then press jump towards the end of the dash. 
+
 Curved Wavedash
+
+A (normal) wavedash from a curved dash. As long as your dash ends diagonal down and touches the ground, you can jump to perform a wavedash. This includes down dashes, forward dashes, or even down+diagonal dashes that change directions more than once.
 
 Ultrahop
 
 Wiggle?
 
 Delayed Theo Transition (DTT)
+
+For screen exit transitions that require Theo to be held or thrown, you can drop Theo at the exit, infinitely spam grounded ultras at the exit to build speed, then grab Theo to release all of your speed. (Depending on the geometry of the next room, you may get stuck in the floor when trying to build too much speed.)
 
 Dream Block Angles
 
@@ -47,3 +53,4 @@ https://youtube.com/clip/UgkxcGXjDW-pSP_Kg7xNkbjs5I8ALVKQ92ea?feature=shared
 
 Reverse Uhop
 
+possible???
