@@ -52,13 +52,19 @@ https://youtube.com/clip/UgkxC312G-5ldsglRb68hxjyceLyhl5TGz7Z?feature=shared
 
 ## Niche Tech
 
-### Curved Dash Refresh
-It is possible to start a horizontal dash, wait until your dash refreshes, then curve either up or down off the ground.
+### Slipdash
+When diagonal-down dashing from the edge of the floor into the air, your dash will not floor snap as usual (?). This allows you to curve the dash in the air, which is normally not possible with a grounded down-diagonal dash. (This is unrelated to cornerslips.)
+
+https://cdn.discordapp.com/attachments/617809769322774533/843258684834709585/2021-05-15_18-38-14.mp4
+https://discord.com/channels/772776549324947466/789095156657553408/931372112688611399
 
 ### Wiggling
 If you are in the air with no speed, the easiest way to get the most horizontal distance is to do a wiggle. Dash forward, curve forward+down, then quickly switch to forward again.
 
 https://youtube.com/clip/Ugkx7I3Gph4FR_ixwLDz5VOgLx4PMpZUZUgH?feature=shared
+
+### Curved Dash Refresh
+It is possible to start a horizontal dash, wait until your dash refreshes, then curve either up or down off the ground.
 
 ### Mid-dash Cornerglide
 If you cornerglide in the middle of your dash, the angle of your dash seems to change abruptly to a diagonal. This allows you to achieve a dash curved more than usual. In this clip, the dash starts angled up and ends angled downright/right. (This is possible RTA but tough for analog players.)
